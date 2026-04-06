@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DjVymhDF4FaifR+rro9aoGQbXHUMrlR3mQ7GZvjU488=",
+  "Source": "AuthAPIWithRolesDemo",
+  "BasePath": "_content/AuthAPIWithRolesDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
